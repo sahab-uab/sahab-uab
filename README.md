@@ -5,7 +5,7 @@
 
 
 # 💻 Tech Stack:
-<div align="left">
+<div align="left" style='spacing: 5;'>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="27" alt="laravel logo"  />
   <img width='5' />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="27" alt="nextjs logo"  />
