@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHuheight="27"b Banner" width="100%" />
+<img src="banner_github.png" height="27" width="100%" />
 
 # Hello!, I'm Sahab, a fullstack Web Developer 👋🏼:
 🛜 currently working on my own [codesuab](https://codesuab.com)<br>👨🏼‍🎓 studying computer science at National instutute in technology<br>👨🏼‍💻 working as a web developer since 2019</i>
