@@ -83,6 +83,7 @@
 
 ## Open Source
 
+- [laravel-permission]([https://github.com/codesuab/deploysync](https://github.com/codesuab/laravel-permission)) (Laravel Permission)
 - [DeploySync](https://github.com/codesuab/deploysync) (Deployment automation tool)
 - [verifyJS](https://github.com/codesuab/verifyJS) (Simple JavaScript CAPTCHA System)
 <br/>
